@@ -1,0 +1,72 @@
+/* Montana Art Landing Page Style Sheet
+	Coded by Alice Maldonado
+	December 2015 */
+
+/* Global Styles */
+
+.container-fluid {
+	margin: 0;
+	padding: 0;
+}
+
+.row {
+	width: 100%;
+}
+
+h1 {
+
+}
+strong {
+
+}
+
+/* Nav Bar Elements */
+
+.navbar {
+	position: absolute;
+}
+ul.micro-menu {
+	list-style-type: none;
+	float: right;
+	margin: 0;
+}
+ul.micro-menu li {
+	float: left;
+}
+ul.macro-menu {
+	list-style-type: none;
+	float: right;
+}
+ul.macro-menu li {
+	float: left;
+}
+
+.navbg {
+	position: absolute;
+}
+/* Main: Call to Action Elements */
+
+main img {
+	width: 100%
+}
+
+/* Gallery Elements */
+.gallery {
+
+}
+
+/* Footer Elements */
+
+footer {
+	background: #000;
+	height: 50px;
+}
+
+ul.social-menu {
+	list-style-type: none;
+	float: right;
+}
+
+ul.social-menu li {
+	float: left;
+}
