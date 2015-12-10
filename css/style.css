@@ -14,10 +14,20 @@
 }
 
 h1 {
-
+	font-family: ArialMT;
+	font-size: 50px;
+	color: #FFFFFF;
+	line-height: 58px;
+	letter-spacing: -3px;
+	background-color: #171616;
+	display: inline;
 }
 strong {
 
+}
+
+ul {
+	padding: 0;
 }
 
 /* Nav Bar Elements */
